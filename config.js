@@ -27,13 +27,13 @@ var config = {
      */
     imgs: {
         "亲爱的呆呆": "./imgs/scc.jpg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "嗨起来",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
